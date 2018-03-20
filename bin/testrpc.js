@@ -17,6 +17,7 @@ const options = {
     // debug: true,
     logger: { log: log.info, },
     blocktime: 0,
+    gasLimit: '0x47B760', //4700000
 };
 
 TestRPC
